@@ -60,4 +60,4 @@ Choose an option:
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2025 Inês Costa and Miguel Raposo
